@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TwstApiJWT.Helpers
+namespace TestApiJWT.Helpers
 {
     public class JWT
     {
