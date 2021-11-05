@@ -18,9 +18,5 @@ namespace TestApiJWT.Models
         public string Email { get; set; }
         [Required, StringLength(256)]
         public string Password { get; set; }
-
-
-
-
     }
 }
